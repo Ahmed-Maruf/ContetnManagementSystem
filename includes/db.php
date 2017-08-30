@@ -12,7 +12,6 @@ $db['db_user'] = "root";
 $db['db_pass'] = "";
 $db['db_name'] = "cms";
 
-
 //Defining constant variable
 foreach($db as $key => $value){
 

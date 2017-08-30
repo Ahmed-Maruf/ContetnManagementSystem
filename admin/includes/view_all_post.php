@@ -11,7 +11,9 @@
 			<th>Tags</th>
 			<th>Comments</th>
 			<th>Date</th>
-		</tr>
+			<th>Update</th>
+			<th>Delete</th>
+	</tr>
 	</thead>
 
 	<tbody>

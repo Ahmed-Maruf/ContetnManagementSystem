@@ -29,6 +29,7 @@
 				//Connecting the query to the database !!!
 					$selectAllCategories = mysqli_query($connection, $query);
 
+
 					if(!$selectAllCategories){
 						echo mysqli_error($connection);
 					}
